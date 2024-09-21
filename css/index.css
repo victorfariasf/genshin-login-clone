@@ -1,0 +1,11 @@
+body{
+    background-image: url("../resources/images/gif-background.gif");
+    background-size: cover;
+}
+
+.login{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 400px;
+    height: 100vh;
+    margin-right: 12rem;
+}
